@@ -80,13 +80,13 @@ pip install keyboard pyautogui
 Enter the number: 9876543210
 Enter country code: 91
 Choose browser: (press 1–5)
-Enter your message: Hello from automation!
+Enter your message: test
 Enter loop number: 3
 ```
 
 Output:
 ```
-Daemon is Hello from automation! to +919876543210 3 times
+Daemon is test to +910011230012 3 times
 Make sure your WhatsApp web is logged in and then press 'enter' to start the daemon...
 ```
 
@@ -100,9 +100,30 @@ Make sure your WhatsApp web is logged in and then press 'enter' to start the dae
 ---
 
 ## 👨‍💻 Contributors
-- Author: *[Your Name]*  
+- Author: **Aspxcts**  
 
 ---
 
 ## 📜 License
-This project is released under the **MIT License** for educational use.  
+This project is released under the **Modified MIT License** for educational use.
+
+
+Copyright (c) 2025 **Aspxcts**
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+
+2. Any works created using this Software or any modified version of this Software must include attribution to the original software author(s). Attribution should include the following information:
+
+a. The name of the software.
+
+b. The name of the original author(s) of the software.
+
+c. The URL or other reference to the software (Github).
+
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.** 
