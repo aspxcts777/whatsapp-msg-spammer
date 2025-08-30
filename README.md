@@ -14,11 +14,11 @@ Do not use it for spamming, harassment, or violating WhatsApp’s terms of servi
 ---
 
 ## 📑 Table of Contents
-- [Installation](#-installation)  
+- [Installation](#%EF%B8%8F-installation)  
 - [Usage](#-usage)  
 - [Features](#-features)  
 - [Dependencies](#-dependencies)  
-- [Examples](#-examples)  
+- [Examples](#-example-run)  
 - [Troubleshooting](#-troubleshooting)  
 - [Contributors](#-contributors)  
 - [License](#-license)  
