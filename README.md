@@ -14,14 +14,14 @@ Do not use it for spamming, harassment, or violating WhatsApp’s terms of servi
 ---
 
 ## 📑 Table of Contents
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Features](#features)  
-- [Dependencies](#dependencies)  
-- [Examples](#examples)  
-- [Troubleshooting](#troubleshooting)  
-- [Contributors](#contributors)  
-- [License](#license)  
+- [Installation](#-installation)  
+- [Usage](#-usage)  
+- [Features](#-features)  
+- [Dependencies](#-dependencies)  
+- [Examples](#-examples)  
+- [Troubleshooting](#-troubleshooting)  
+- [Contributors](#-contributors)  
+- [License](#-license)  
 
 ---
 
