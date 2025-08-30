@@ -29,8 +29,8 @@ Do not use it for spamming, harassment, or violating WhatsApp’s terms of servi
 Clone the repository and install the dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/aspxcts777/whatsapp-msg-spammer
+cd whatsapp-msg-spammer
 pip install -r requirements.txt
 ```
 
@@ -77,7 +77,7 @@ pip install keyboard pyautogui
 
 ## 💡 Example Run
 ```text
-Enter the number: 9876543210
+Enter the number: 0011230012
 Enter country code: 91
 Choose browser: (press 1–5)
 Enter your message: test
