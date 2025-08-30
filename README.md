@@ -29,7 +29,7 @@ Do not use it for spamming, harassment, or violating WhatsApp’s terms of servi
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/aspxcts777/whatsapp-msg-spammer
+git clone https://github.com/aspxcts777/whatsapp-msg-spammer.git
 cd whatsapp-msg-spammer
 pip install -r requirements.txt
 ```
